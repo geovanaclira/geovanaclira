@@ -1,6 +1,6 @@
 ## Olá, Eu sou Geovana Cristina 👋
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Estudante de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="[https://github.com/geovanaclira](https://github.com/geovanaclira)">
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=geovanaclira&show_icons=true&theme=radical"/>
