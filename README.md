@@ -1,6 +1,7 @@
-## Olá, Eu sou Geovana Cristina 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83B7D&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D83B7D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Geovana+Cristina;I'm+19+years+old;I+am+from+Recife,+PE;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
 ## GitHub Stats ⚡
 <div>
   <a href="https://github.com/geovanaclira">
@@ -26,6 +27,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-## Learning
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83B7D&height=120&section=footer"/>
 
 
