@@ -27,6 +27,11 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geovanaclira/geovanaclira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geovanaclira/geovanaclira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geovanaclira/geovanaclira/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83B7D&height=120&section=footer"/>
 
