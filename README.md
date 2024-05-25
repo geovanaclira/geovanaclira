@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83B7D&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D83B7D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Geovana+Cristina;I'm+19+years+old;I+am+from+Recife,+PE;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA418C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Geovana+Cristina;I'm+19+years+old;I+am+from+Recife,+PE;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ## GitHub Stats ⚡
 <div>
@@ -19,7 +20,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:geovana.liira@gmail.com)](mailto:geovana.liira@gmail.com)
 ##
 
-## My Technologies
+## Skills
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -33,6 +34,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/geovanaclira/geovanaclira/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83B7D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA418C&height=120&section=footer"/>
 
 
